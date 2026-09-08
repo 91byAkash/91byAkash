@@ -7,6 +7,7 @@ The software of the next decade runs on these rails — and almost none of it ha
 I intend to write load-bearing parts of it.
 
 
+
 ## The thesis
 
 India built the base rails — identity, payments, documents, tax. What's missing is the layer above them: the software that turns national infrastructure into working products for a billion people. That layer is where I build. Wherever a rail exists and the software native to it doesn't — that's the territory.
